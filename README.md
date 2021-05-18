@@ -7,6 +7,7 @@
 
 ## Screen Shot Image
 ### CSV File Image
+![Screen Shot 2021-05-18 at 9 22 47 AM](https://user-images.githubusercontent.com/75402947/118658821-bf869380-b7ba-11eb-8d3c-76576662253e.png)
 
 ### JSON File Image
-![JSON Image](https://user-images.githubusercontent.com/75402947/115603966-cfd84b00-a2ae-11eb-94bf-0c065e0f5916.png)
+![Screen Shot 2021-05-18 at 9 22 29 AM](https://user-images.githubusercontent.com/75402947/118658892-d0cfa000-b7ba-11eb-847c-88aa670e1cb0.png)
